@@ -11,6 +11,6 @@ Not to be confused with:
 'Deep Neuroevolution of Recurrent and Discrete World Models' (Risi et al. 2019)
 https://arxiv.org/abs/1906.08857
 
-VQ-VAE implementation inspired by rosinality
+VQ-VAE implementation inspired by rosinality's PyTorch port (from TensorFlow)
 https://github.com/rosinality/vq-vae-2-pytorch
 
